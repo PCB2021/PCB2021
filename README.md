@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PCB2021
 - 👀 I’m interested in ... all things data science related
 - 🌱 I’m currently learning ... ML / modelling (via the Udacity Data Science nano-degree
-- 💞️ I’m looking to collaborate on ... errr...
+- 💞️ I’m looking to collaborate on ... errr...🥺
 - 📫 How to reach me ... here
 
 <!---
